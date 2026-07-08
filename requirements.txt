@@ -5,3 +5,5 @@ discord.py>=2.6.0
 aiohttp
 pillow
 flask
+discord.py
+gunicorn
