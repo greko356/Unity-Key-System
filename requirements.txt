@@ -1,0 +1,7 @@
+discord.py>=2.4.0
+aiohttp
+python-dotenv
+discord.py>=2.6.0
+aiohttp
+pillow
+flask
